@@ -8,13 +8,15 @@ module.exports = function (eleventyConfig) {
     headingPermalinks: true,
     header: {
       organisationLogo: false,
-      productName: 'Design history',
+      productName: 'Forms designer history',
+      themeColor: '#f7f7f7', // Change this to your desired theme color
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap'
       }
     }
   })
+
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
