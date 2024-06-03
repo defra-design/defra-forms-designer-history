@@ -71,9 +71,11 @@ We asked open questions to understand participants' background and story, and to
 - Expectations to be able to see the forms they have worked on straight away.
 
 **Quotes:**
-- "Is that gonna be my own personal form library or is that like everything? Is that all of Defra forms?...on Gov UK I can see my own stuff, but I can also search for everything else. I assume it would be similar." - Content designer, BAU
-- "I see I can sort for the newest, which might be what I want to do, or I might need to search for ones that I've worked on." - Content designer, Trade
-- "I’d go straight to the form I’m working on." - Content Designer, Alpha
+> "Is that gonna be my own personal form library or is that like everything? Is that all of Defra forms?...on Gov UK I can see my own stuff, but I can also search for everything else. I assume it would be similar." - Content designer, BAU
+
+> "I see I can sort for the newest, which might be what I want to do, or I might need to search for ones that I've worked on." - Content designer, Trade
+
+> "I’d go straight to the form I’m working on." - Content Designer, Alpha
 
 **User need:**
 - As a user, I need to be able to see straight away the forms I have worked on.
@@ -84,7 +86,8 @@ We asked open questions to understand participants' background and story, and to
 - Sort by A-Z.
 - Organisations within Defra (Operational Teams).
 - Some inconsistency in the labels we use – what is the difference between Published and Live?
-- "Published – is the same as live?" - Content designer, Trade
+
+> "Published – is the same as live?" - Content designer, Trade
 
 ### Insight 3: Create a new form - Journey
 
@@ -96,14 +99,16 @@ We asked open questions to understand participants' background and story, and to
 **Main insights:**
 - The name of the form is usually decided in collaboration with the SMEs/policy team.
 - Most participants expected to be able to change the form name later.
-- "Ideally, it would be together based on what they want the form to do and be based on good content design principles, the style guides and making it clear what the form is, so not just giving it like an obscure number or something very generic." - Content designer, BAU
+
+> "Ideally, it would be together based on what they want the form to do and be based on good content design principles, the style guides and making it clear what the form is, so not just giving it like an obscure number or something very generic." - Content designer, BAU
 
 **Recommendation:**
 - 'Holding hands' - Add some copy under 'Enter a name for your form' to set expectations and reassure users that the name can be changed later.
 
 **Difference between the 'name' of the form and the 'title' of the form:**
 - A content designer was unclear about the difference between NAME and TITLE. She assumed this would be the internal form name she would give to her form, to easily find it again.
-- "The name, I assume something unique so that I can find it again." - Content designer
+
+> "The name, I assume something unique so that I can find it again." - Content designer
 
 **2. Choose a lead organisation for the form**
 
@@ -111,7 +116,8 @@ We asked open questions to understand participants' background and story, and to
 
 - All clear.
 - There are cases when the user might need to choose more than one organisation.
-- "We're sort of operating within three areas: Defra core, APHA and DAERA. So, I'm going to pick APHA, but I might want to pick two." - Content Designer, Trade
+
+> "We're sort of operating within three areas: Defra core, APHA and DAERA. So, I'm going to pick APHA, but I might want to pick two." - Content Designer, Trade
 
 **User need:**
 - As a user, I need to be able to choose more than one lead organisation for a form.
@@ -120,7 +126,8 @@ We asked open questions to understand participants' background and story, and to
 - In general, content designers don't have this information at hand and work with SMEs/policy team.
 - There are cases in which teams don't have a 'shared team email address.' Content designers will input their own Defra email address. This can be changed later.
 - A participant working with an operational team assumed she is responsible for the form, because she creates the form, and she was unsure of the policy team or business responsible for the form.
-- "I don't know what the policy team are actually called. What business area responsible for this form? I would assume that I'm responsible for this form as I'm creating it and I'm in the xxx team. So that's what I would put there." - Content designer, Air Quality Control
+> "I don't know what the policy team are actually called. What business area responsible for this form? I would assume that I'm responsible for this form as I'm creating it and I'm in the xxx team. So that's what I would put there." - Content designer, Air Quality Control
+
 - She continued without adding a shared email as her team doesn’t have one. Other participants added their own email address.
 
 **Form overview:**
@@ -131,7 +138,8 @@ We asked open questions to understand participants' background and story, and to
 - Looks like Whitehall.
 - Participants welcome the 'Change' links.
 - Make draft live – It was unclear to a participant where the form will be published.
-- "Does it go live straight on GOV.UK? Where is it going to sit? Is it going to sit somewhere separately and then you attach it to a specific page?" - Content designer, BAU
+
+> "Does it go live straight on GOV.UK? Where is it going to sit? Is it going to sit somewhere separately and then you attach it to a specific page?" - Content designer, BAU
 
 **Internal notes:**
 - Clear and useful.
@@ -144,7 +152,8 @@ We asked open questions to understand participants' background and story, and to
 **Guidance might not be the right term to use:**
 - Before clicking on the link, some participants expected to be able to see on the next page step-by-step guidance on how to create a form, what can and can't be added to the form. Other participants were not clear on what to expect.
 - Once on the page, the purpose of the page became clearer to participants - to provide the right information to citizens.
-- "Right. So it's policies that will be citizen facing." - Content designer, Trade
+
+> "Right. So it's policies that will be citizen facing." - Content designer, Trade
 
 **Participants reported:**
 - They don't always have the information that needs to be provided within these links. They would work with the SMEs or policy team who requested the form to get the info they need.
@@ -177,7 +186,8 @@ We asked open questions to understand participants' background and story, and to
 - "I'm not clear if the email is the only option..." - Content designer, BAU
 - Participants welcomed having the 'Formatting help' section at the end of the page. One participant would like to be able to access the help in advance, before arriving to this page.
 - A preview link is missing.
-- "I want to preview this link and see how it looks because I had to use this formatting with the hash key and so I want to make sure it looks good." - Content designers, Trade
+
+> "I want to preview this link and see how it looks because I had to use this formatting with the hash key and so I want to make sure it looks good." - Content designers, Trade
 
 **User need:**
 - As a user who has used any formatting symbol, I need to be able to preview my copy and see how it looks before saving my changes.
@@ -187,5 +197,7 @@ We asked open questions to understand participants' background and story, and to
 ![Preview link](picture40.jpg "Preview link")
 
 - The 'Preview link' available on the Overview page once the form is live is not clear. If the form is live, there is an expectation that the links are the same.
-- "Why would you still need a preview link if it's live? And you have the Live link? I'm wondering." - Content designer, Trade
-- "What is the difference? Why would it be a preview link if it's gone live? Why would there be a preview link and a live link. Why two when there’s no further drafts?" - Alpha content designer
+
+> "Why would you still need a preview link if it's live? And you have the Live link? I'm wondering." - Content designer, Trade
+
+> "What is the difference? Why would it be a preview link if it's gone live? Why would there be a preview link and a live link. Why two when there’s no further drafts?" - Alpha content designer
