@@ -1,5 +1,5 @@
 ---
-title: Private Beta Round 1 Usability testing - May 2024
+title: Private Beta Round 1 Usability testing
 description: Usability testing of various pages.
 date: 2024-05-02
 tags:
@@ -183,7 +183,9 @@ We asked open questions to understand participants' background and story, and to
 
 - The content in general is clear.
 - Participants found the example very helpful, but we need to make clear that the information about 'what happens next' is different from service to service.
-- "I'm not clear if the email is the only option..." - Content designer, BAU
+
+> "I'm not clear if the email is the only option..." - Content designer, BAU
+
 - Participants welcomed having the 'Formatting help' section at the end of the page. One participant would like to be able to access the help in advance, before arriving to this page.
 - A preview link is missing.
 

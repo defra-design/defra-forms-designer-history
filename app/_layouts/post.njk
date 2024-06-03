@@ -1,10 +1,15 @@
 {% extends "layouts/post.njk" %}
 
+
+
 {% from "screenshots/macro.njk" import appScreenshots %}
+
+
 
 {% block content %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
+
       {{ appDocumentHeader({
         title: title | noOrphans,
         date: date,
@@ -15,10 +20,7 @@
       }) }}
     </div>
 
-    <meta name="theme-color" content="#FF5733"> <!-- Replace #FF5733 with your desired hex color -->
-
-
-    <div class="govuk-grid-column-two-thirds-from-desktop">
+    <div class="govuk-grid-column-two-thirds-from-desktop" >
       {% call appProseScope() %}
         {% if image -%}
           <figure>
