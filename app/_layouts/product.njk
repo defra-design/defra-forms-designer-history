@@ -1,10 +1,9 @@
 {% extends "layouts/product.njk" %}
 
-
 {% block content %}
   {{ content }}
+
   <div class="govuk-grid-row">
-    {# Paginate posts if front matter includes the pagination key #}
     {% if pagination %}
       <section class="govuk-grid-column-two-thirds">
         <h2 class="govuk-heading-l govuk-!-font-size-27">
@@ -29,7 +28,6 @@
           {% include "layouts/shared/related.njk" %}
         </div>
       {% endif %}
-    {# List sections (pages with a parent that is the homepage) if homepage has no pagination key set #}
     {% elif eleventyNavigation.key == options.homeKey %}
       <div class="govuk-grid-column-full">
         <h2 class="govuk-heading-l govuk-!-font-size-27">

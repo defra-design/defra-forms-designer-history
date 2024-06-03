@@ -1,5 +1,22 @@
 ---
 eleventyExcludeFromCollections: true
 ---
+
+$theme-colour: #008531;
+
+// Rest of your SCSS code
 @import "govuk-frontend/dist/govuk/base";
 @import "../_components/all";
+
+// Override the default theme color with the custom one
+.govuk-header {
+    border-bottom: 10px solid $theme-colour;
+}
+
+.govuk-header__container {
+    border-bottom: 10px solid $theme-colour;
+}
+
+.x-govuk-masthead {
+    background-color: $theme-colour;
+}
