@@ -1,6 +1,6 @@
 ---
 title: Private Beta Round 1 Usability testing
-description: Usability testing of various pages.
+description:
 date: 2024-05-02
 tags:
   - usability testing
