@@ -1,6 +1,4 @@
-# Design history for GOV.UK services
-
-A place for you to document your GOV.UK service designs.
+# Design history for the Defra Forms Designer
 
 ## Purpose of this project
 
@@ -17,8 +15,6 @@ This repository makes it easy to:
 Read our guide on how to [set up a design history](https://x-govuk.github.io/govuk-design-history/get-started/).
 
 ## Support
-
-This project is maintained by a small number of volunteers working across government.
 
 For questions about using a design history for your service, bug reports or feedback, [submit a new issue](https://github.com/x-govuk/govuk-design-history-template/issues/new).
 
