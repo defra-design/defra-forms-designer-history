@@ -24,18 +24,18 @@ related:
     #   href: /glossary
 
   subsections:
-    - title: Live service
-      items:
-        - text: Production
-          href:
-        - text: Staging
-          href:
+    # - title: Live service
+    #   items:
+    #     - text: Production
+    #       href:
+    #     - text: Staging
+    #       href:
     - title: GitHub repositories
       items:
         - text: Design history
-          href:
-        - text: Live service
-          href:
+          href: https://github.com/defra-design/defra-forms-designer-history
+        # - text: Live service
+        #   href:
         - text: Prototype
-          href:
+          href: https://github.com/defra-design/defra-forms-mvp-prototype
 ---
