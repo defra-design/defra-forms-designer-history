@@ -4,8 +4,7 @@ description: How we used a pattern developed by the One Login team as the basis 
 date: 2024-01-10
 author: Daniel Da Silveira
 tags:
-  - forms designer
-  - interaction design
+  - forms designer interface
 ---
 
 ## Before
