@@ -68,4 +68,4 @@ We evaluated the xGov Digital Form Designer's form creation process.
 | ------------- |
 | Navigating the page initially is challenging due to the absence of a clear start and end point.​ |
 | The system lacks progressive disclosure; all information is presented at once, requiring trial and error.​ |
-| Connecting pages isn't intuitively clear, and undoing drags connections is equally limited. |
+| Connecting pages isn't intuitively clear, and undoing drags connections is equally limited. |huh
