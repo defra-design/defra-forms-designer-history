@@ -11,7 +11,7 @@ tags:
 ## Before
 We started with a simple page header based on work done by the team behind the admin interface for the 'Apply for plant export certificates and inspections' service.
 
-![Form home' page, with 'Edit' link highlighted](01.png "Form home' page, with 'Edit' link highlighted")
+![Page header first iteration](01.png "Page header first iteration")
 
 However, as more features were being developed by our team a need was identified for a more robust page header that could leave room for:
 
