@@ -27,9 +27,7 @@ After a review of other potential patterns, the team decided to test a design by
 
 ## After
 
-After a review of other potential patterns, the team decided to test a design by the [GOV.UK One Login service team](https://github.com/govuk-one-login/service-header).
-
-![Details component expanded to reveal organisation details](03.png "Form editor page, with 'Form settings' link highlighted")
+![Second iteration of the page header using the One Login design](03.png "Second iteration of the page header using the One Login design")
 
 ### What we found
 
