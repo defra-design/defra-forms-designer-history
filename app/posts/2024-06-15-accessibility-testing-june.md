@@ -42,10 +42,12 @@ The prototype works well, needing only a few minor improvements. The user was ab
 
 > Everything seems to be quite nice there. I can see everything in good colours. As you can see, I have a very big pointer because I keep on losing it due to my bad eyesight. But no, that seems good. It changes the colours of things. Sometimes this draft and live. I don't know whether those were the intended colours. But no, that seems to be OK.
 
-<video width="100%" scrolling="no" frameborder="10" height="240" controls>
+<video width="100%" scrolling="no" frameborder="1" height="240" controls>
   <source src="vid.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+<span class="govuk-caption-m govuk-!-margin-bottom-2">To protect privacy, the voice has been altered for anonymity.</span>
+
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
