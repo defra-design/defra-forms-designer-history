@@ -42,6 +42,31 @@ The prototype works well, needing only a few minor improvements. The user was ab
 
 > Everything seems to be quite nice there. I can see everything in good colours. As you can see, I have a very big pointer because I keep on losing it due to my bad eyesight. But no, that seems good. It changes the colours of things. Sometimes this draft and live. I don't know whether those were the intended colours. But no, that seems to be OK.
 
+<video width="100%" scrolling="no" frameborder="10" height="240" controls>
+  <source src="vid.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      Video transcript
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+
+The prototype works well. I mean, first of all, straight away I can see that in dark mode it looks like it's behaving with everything seems to be quite nice there. I can see everything with good colours.
+
+
+As you can see, I have a very big pointer because I keep on losing it due to my bad eyesight. But I think this is testament to using the GDS. You know, format is that every everything that I've mentioned really is as low and minor, but no for very, very good in terms of usability. Amen. Yes, I think it's, I think it's very, very good. I wouldn't have a problem using it, let's put it that way.
+
+And there's lots of forms you'd use which are a lot, lot worse than this. So I, I think when you use assistive technology, when you use non-standard colours and things like that, you do get used to as a person knowing that it doesn't always behave correctly. So you expect it to be sort of not behaving as you would expect. But this one largely there's not. There's nothing major. I could use this form. I could use this form OK with my particular needs because I can still read a bit as well as read it as well as using the read aloud.
+
+So I can see success. This form is now live and I probably wouldn't read that out.
+  </div>
+</details>
+
+
 ### Insight 2: Forms library
 
 While using Read Aloud, the cursor does not highlight the information written in the ‘Last updated’ column.
