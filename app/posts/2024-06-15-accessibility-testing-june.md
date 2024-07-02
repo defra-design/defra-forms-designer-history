@@ -1,6 +1,6 @@
 ---
 title: Accessibility testing June 2024
-description: Accessibility testing with someone with dyslexia and low-vision
+description: Accessibility testing with a user with dyslexia and low-vision
 date: 2024-06-15
 author: Monica Ferraro
 tags:
