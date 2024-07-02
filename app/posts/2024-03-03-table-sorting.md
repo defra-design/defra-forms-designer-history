@@ -2,6 +2,7 @@
 title: Making it easier to find forms
 description: How we decided to use a sorting feature to help users find forms
 date: 2024-03-03
+author: Daniel Da Silveira
 tags:
 - managing forms
 - form library

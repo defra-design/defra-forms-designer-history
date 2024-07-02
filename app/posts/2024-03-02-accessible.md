@@ -2,6 +2,7 @@
 title: Creating an accessible forms library using the GOV.UK table component
 description: Users need the ability to view and manage forms for a variety of reasons. This post talks about the work we did to create an accessible view of forms for users
 date: 2024-03-02
+author: Daniel Da Silveira
 tags:
 - managing forms
 - form library

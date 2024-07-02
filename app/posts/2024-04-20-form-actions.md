@@ -2,6 +2,7 @@
 title: Making form actions intuitive
 description: Each forms need a base from which users can make the majority of actions on it.
 date: 2024-04-26
+author: Daniel Da Silveira
 tags:
 - managing forms
 - form overview

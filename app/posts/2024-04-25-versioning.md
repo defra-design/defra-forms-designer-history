@@ -1,6 +1,7 @@
 ---
 title: How users can publish forms
 description: One of the key actions a user can take is to publish their forms so that it's accessible to the public. This post describes how we've changed the designs for this process.
+author: Daniel Da Silveira
 date: 2024-04-25
 tags:
 - managing forms

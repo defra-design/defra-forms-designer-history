@@ -2,6 +2,7 @@
 title: How we present information about forms
 description: Forms have attached meta information that needs presenting back to users. This post talks about how iterated on the presentation of that information
 date: 2024-04-12
+author: Daniel Da Silveira
 tags:
 - managing forms
 - form overview

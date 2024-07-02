@@ -2,6 +2,7 @@
 title: Private Beta round 2 usability testing
 description:
 date: 2024-06-03
+author: Monica Ferraro
 tags:
   - usability testing
   - user research
