@@ -74,12 +74,17 @@ Some participants had previous experience in creating digital forms, some did no
 We asked participants for their understanding of the page, their feedback and to interact with the page as if they were members of the public and not content designers. Insights from Round 3 helped us iterate the design for Round 4.
 
 ### Round 3 insights:
+![File upload pattern with two files](01.jpg "File upload pattern with two files")
+
 - The interactions, status of the files and the file size were all clear to all participants.
 - The hint content needed to be specific. It was unclear to some participants what would happen if they uploaded only 1 file. Would they have been penalized? Also, 1 participant expected to be able to upload 2 files together.
 
 > "I'm just wondering why I'd need to maybe upload up to two. Is 1 file enough?"
 
 ### Round 4 insights:
+
+![File upload pattern with two files and updated content](01b.jpg "File upload pattern with two files and updated hint text")
+
 - The content, labels and interactions were all clear.
 - One participant asked why we ask to upload two copies of the same document.
 
@@ -272,4 +277,4 @@ The ‘Select the file types you accept’ section of the File upload page was t
 
 ### Round 4:
 
-- We added an icon in the page visualiser representing a file upload. The page was clear to all participants. They all understood the icon, clicked 'Edit page' to edit it and clicked Preview to view the public-facing page.
+We added an icon in the page visualiser representing a file upload. The page was clear to all participants. They all understood the icon, clicked 'Edit page' to edit it and clicked Preview to view the public-facing page.
