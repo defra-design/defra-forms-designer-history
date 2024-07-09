@@ -79,7 +79,7 @@ We asked participants for their understanding of the page, their feedback and to
 
 > "I'm just wondering why I'd need to maybe upload up to two. Is 1 file enough?"
 
-### Round 4 insights:**
+### Round 4 insights:
 - The content, labels and interactions were all clear.
 - One participant asked why we ask to upload two copies of the same document.
 
