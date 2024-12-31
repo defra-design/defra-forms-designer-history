@@ -1,6 +1,6 @@
 ---
 title: Private Beta Round 5 Usability Testing
-description: Usability testing of various pages
+description: Validate and test new design ideas for the new Add another feature, pages available for members of the public and content designers using XGov.
 date: 2024-07-19
 tags:
   - private beta
