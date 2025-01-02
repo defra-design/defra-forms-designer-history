@@ -1,12 +1,12 @@
 ---
 title: Private Beta Round 6 Usability Testing
-description: Usability testing of the new ‘Form editor’ re-design
+description: Tested the ‘Form Editor’ enhancements, revealing clear usability in form creation and previews. Issues included confusion around the ‘Repeater’ label, unclear CTAs, and layout improvements for better guidance.
 date: 2024-08-29
 tags:
   - private beta
   - usability testing
   - user research
-  - form editor
+  - form editor enhancements
   - labels
 ---
 
