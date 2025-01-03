@@ -1,6 +1,6 @@
 ---
 title: Usability testing Alpha Round 2
-description:
+description: Alpha round 2 usability testing focused on validating the Forms Library and Form Builder designs. Insights included the need for search filters, clarity in form linking, and suggestions for improving interactivity and labels.
 date: 2024-04-01
 tags:
 - usability testing

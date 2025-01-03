@@ -1,6 +1,6 @@
 ---
 title: Accessibility testing June 2024
-description: Accessibility testing with a user with dyslexia and low-vision
+description: Testing a user with dyslexia and low-vision highlighted issues such as inconsistent labeling, unclear autofill behavior, and missed notification banners. Minor improvements were identified for better readability, screen reader compatibility, and user navigation.
 date: 2024-06-15
 author: Monica Ferraro
 tags:

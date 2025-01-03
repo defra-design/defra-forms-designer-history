@@ -1,6 +1,6 @@
 ---
 title: How users can publish forms
-description: One of the key actions a user can take is to publish their forms so that it's accessible to the public. This post describes how we've changed the designs for this process.
+description: We redesigned the form publishing process, allowing users to publish directly from draft to live with unique URLs, create draft versions from live or closed forms, and manage status changes easily.
 author: Daniel Da Silveira
 date: 2024-04-25
 tags:

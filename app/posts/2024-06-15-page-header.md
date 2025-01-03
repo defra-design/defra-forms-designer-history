@@ -1,6 +1,6 @@
 ---
 title: Using the GOV.UK One Login service header
-description: How we used a pattern developed by the One Login team as the basis for our Forms Designer's header
+description: The GOV.UK One Login service header was adapted for the Forms Designer, addressing the need for a more robust header. The final design included Defra branding, left-aligned navigation, and improved responsiveness.
 date: 2024-01-10
 author: Daniel Da Silveira
 tags:

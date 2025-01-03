@@ -1,6 +1,6 @@
 ---
 title: Private Beta round 2 usability testing
-description:
+description: Content designers provided feedback on form creation tasks, including adding email, support details, conditions, and components. Key insights highlighted the need for clearer labels and improved navigation
 date: 2024-06-03
 author: Monica Ferraro
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Accessibility testing - July 2024
-description: Accessibility testing of the prototype with a Dragon user. Dragon is a speech-recognition program that can be used to control the mouse and keyboard with your voice.
+description: A participant using Dragon speech recognition software found the prototype generally usable, but identified minor issues with label clarity, missing confirmation messages, and command functionality.
 date: 2024-07-01
 author: Monica Ferraro
 tags:

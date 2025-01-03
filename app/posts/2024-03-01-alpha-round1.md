@@ -1,6 +1,6 @@
 ---
 title: Usability testing - alpha round 1
-description:
+description: The alpha round 1 usability testing focused on understanding users and validating new designs for the forms library and form builder. Insights included the need for search/filter functionality, clarity between XGov experiences, and better integration of development elements.
 date: 2024-03-15
 tags:
 - usability testing

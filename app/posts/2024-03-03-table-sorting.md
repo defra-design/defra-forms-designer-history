@@ -1,6 +1,6 @@
 ---
 title: Making it easier to find forms
-description: How we decided to use a sorting feature to help users find forms
+description: The MoJ sortable table component was replaced with table sorting functionality to improve form navigation. Sorting options like A to Z, updated dates, and status were implemented, addressing previous usability issues with pagination.
 date: 2024-03-03
 author: Daniel Da Silveira
 tags:

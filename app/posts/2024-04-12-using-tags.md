@@ -1,6 +1,6 @@
 ---
 title: Using the GOV.UK tags component to show the status of forms
-description: Users need to know what state a form is in, in order to decide what actions to make on them.
+description: The team tested using GOV.UK tags to show form statuses like 'Draft,' 'Live,' and 'Closed,' ensuring users could easily track forms. Multiple statuses per form were tested and well-received.
 date: 2024-04-12
 author: Daniel Da Silveira
 tags:

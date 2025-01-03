@@ -1,6 +1,6 @@
 ---
 title: Heuristic evaluation of the XGov Digital Form Builder
-description: Evaluating the usability of the XGov Digital Form Builder
+description: A heuristic evaluation of the XGov Digital Form Builder identified several usability issues. These included unclear prompts, lack of system feedback, inconsistent button labeling, poor navigation, and inadequate user control, which complicate the form creation process.
 date: 2024-01-03
 tags:
 - accessibility

@@ -1,6 +1,6 @@
 ---
 title: Making form actions intuitive
-description: Each forms need a base from which users can make the majority of actions on it.
+description: We simplified form actions by moving key tasks like creating drafts, publishing, and editing to the 'Overview' page, aligning with users' mental models and improving usability with a familiar layout.
 date: 2024-04-26
 author: Daniel Da Silveira
 tags:
@@ -26,8 +26,6 @@ The as-is flow was:
 4. Go back to the Form home and select 'Create draft'
 
 ![Details component expanded to reveal organisation details](04-draft.svg "Form settings page with 'Publish' button")
-
-
 
 ### What we found
 - It didn't fall into users' mental model to have to go open a draft form and then open the 'Form settings' link

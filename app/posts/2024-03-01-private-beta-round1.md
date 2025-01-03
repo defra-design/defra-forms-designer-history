@@ -1,6 +1,6 @@
 ---
 title: Private Beta Round 1 Usability testing
-description:
+description: Users provided feedback on the forms library, creation journey, internal notes, and guidance links. Key insights included improving form status clarity, adding search functionality, and refining the preview link.
 date: 2024-05-02
 author: Monica Ferraro
 tags:
